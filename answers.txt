@@ -1,0 +1,11 @@
+var = 'variable'
+
+:symbol
+1
+true / false
+'String'
+
+car_1 = { wheels: 4, max_speed: 140, color: 'red' }
+ar_2 = { wheels: 2, max_speed: 120, color = 'blue' }
+array = [car_1, car_2]
+Array[1][:color]
